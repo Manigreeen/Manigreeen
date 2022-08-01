@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Manigreeen but you can call me Mani. I am a hungry learner looking to learn many coding languages for all sorts of purposes.
+- I'm starting of with the easiest most popular one Python.
+- 👀 I’m interested in ... I'm interested on football, playing the guitar, listening to music, and just hanging out. But I'm mostly interested on personal growth 
+- Which was something that I started to admire not so long ago. I like the concept of productivity and how to make the most out of my time.
+- 🌱 I’m currently learning ... I'm currently learning Python with a CS50 free online course
+- 💞️ I’m looking to collaborate on ... I'm looking to collaborate on any project anyone is willing to do with me because I want to get the experience of teamwork 
+- and actual collaboration
+- 📫 How to reach me ... You can text me through my gmail: tomgreen.mejia11@gmail.com or by my whatsapp number: +57 310 5643297
